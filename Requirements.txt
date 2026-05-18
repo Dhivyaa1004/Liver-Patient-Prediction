@@ -4,6 +4,7 @@ matplotlib
 seaborn
 scipy
 statsmodels
-scikit-learn
+streamlit
+scikit-learn==1.6.1
 imbalanced-learn
-xgboost
+pickle-mixin
