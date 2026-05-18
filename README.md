@@ -91,7 +91,7 @@ Liver-Patient-Prediction/
 │   └── liver-patient-prediction.ipynb
 │
 └── data/
-    └── liver_patient_dataset.csv
+    └── liver.csv
 ```
 
 ---
